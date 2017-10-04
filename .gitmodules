@@ -1,21 +1,21 @@
-[submodule "/home/ryu/.vim/pack/ryu/start/nerdtree"]
-	path = /home/ryu/.vim/pack/ryu/start/nerdtree
+[submodule "pack/ryu/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "/home/ryu/.vim/pack/ryu/start/syntastic"]
-	path = /home/ryu/.vim/pack/ryu/start/syntastic
+[submodule "pack/ryu/start/syntastic"]
+	path = pack/plugins/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
-[submodule "/home/ryu/.vim/pack/ryu/start/fugitive"]
-	path = /home/ryu/.vim/pack/ryu/start/fugitive
+[submodule "pack/ryu/start/fugitive"]
+	path = pack/plugins/start/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "/home/ryu/.vim/pack/ryu/start/vim-airline"]
-	path = /home/ryu/.vim/pack/ryu/start/vim-airline
+[submodule "pack/ryu/start/vim-airline"]
+	path = pack/plugins/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
-[submodule "/home/ryu/.vim/pack/ryu/start/vim-airline-themes"]
-	path = /home/ryu/.vim/pack/ryu/start/vim-airline-themes
+[submodule "pack/ryu/start/vim-airline-themes"]
+	path = pack/plugins/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule "/home/ryu/.vim/pack/ryu/start/vim-surround"]
-	path = /home/ryu/.vim/pack/ryu/start/vim-surround
+[submodule "pack/ryu/start/vim-surround"]
+	path = pack/plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "/home/ryu/.vim/pack/ryu/start/vim-colors-solarized"]
-	path = /home/ryu/.vim/pack/ryu/start/vim-colors-solarized
+[submodule "pack/ryu/start/vim-colors-solarized"]
+	path = pack/plugins/start/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
